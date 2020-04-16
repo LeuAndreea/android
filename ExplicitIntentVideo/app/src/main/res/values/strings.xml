@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Explicit Intent Video</string>
+    <string name="please_enter_your_name">please enter your name</string>
+    <string name="welcome_to_activity_2">WELCOME TO ACTIVITY 2</string>
+
+    <string name="data_from_activity_3_will_be_displayed_here">Data from activity 3 will be displayed here</string>
+    <string name="activity2">Activity2</string>
+    <string name="activity3">ACTIVITY3</string>
+</resources>

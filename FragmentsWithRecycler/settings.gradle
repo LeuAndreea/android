@@ -1,0 +1,2 @@
+rootProject.name='Fragments With Recycler'
+include ':app'
